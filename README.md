@@ -79,9 +79,9 @@
 - **Singleton Pattern**: Logger / DB Connection
 
 ### 🔹 Phase 3: Machine Coding Round – 
-- *SplitWise*
-- *Distributed Queue*
-- *In Memory Key-Value Store* 
+- LLD Case 1: *SplitWise*
+- LLD Case 2: *Distributed Queue System*
+- LLD Case 3: *In Memory Key-Value Store* 
 - Class Design, Implementing Functional Requirements
 - Applying Clean Architecture Principles
 - Focus on Maintainability & Extensibility
