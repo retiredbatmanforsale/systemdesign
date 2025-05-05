@@ -78,8 +78,11 @@
 - **Bridge Pattern**: UI Logic Decoupling
 - **Singleton Pattern**: Logger / DB Connection
 
-### 🔹 Phase 3: Machine Coding Round – *SplitWise Clone*
-- Class Design: User, Expense, BalanceService
+### 🔹 Phase 3: Machine Coding Round – 
+- *SplitWise*
+- *Distributed Queue*
+- *In Memory Key-Value Store* 
+- Class Design, Implementing Functional Requirements
 - Applying Clean Architecture Principles
 - Focus on Maintainability & Extensibility
 
@@ -87,8 +90,8 @@
 
 ## 🌟 Optional Enrichment Modules
 
-- **Case Study**: Design of ChatGPT (Overview)
-- **Homework**: Design BookMyShow, Zomato
+- **Case Study**: Deep Dive into the Design Case Study of ChatGPT 
+- **Assignments**: Design BookMyShow, Zomato
 - **Recommended Reading**: *Designing Data-Intensive Applications* by Martin Kleppmann
 
 ---
